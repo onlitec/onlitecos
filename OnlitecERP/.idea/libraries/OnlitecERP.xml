@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OnlitecERP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/OnlitecERP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
